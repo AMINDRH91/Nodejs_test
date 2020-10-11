@@ -32,9 +32,9 @@
  }
  
 # Very important items :
- `Clean code
-Pattern design
-Simple but professional
+ `Clean code ,
+Pattern design ,
+Simple but professional ,
 You have only 48 hours to receive the link, after which no excuse is accepted`
  
 You can also:
